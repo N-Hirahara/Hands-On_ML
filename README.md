@@ -1,2 +1,3 @@
 # forStudy
-hogehoge
+Read various books and learn about machine learning, deep learning etc...
+1. Hands-On Machine Learning with Scilit-Learn and TensorFlow 2019/4~
